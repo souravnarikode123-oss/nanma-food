@@ -174,7 +174,7 @@ const Hero = () => {
               flavours.
             </p>
             <div className="hero__actions">
-              <a className="hero__cta hero__cta--primary" href="tel:+918086440220">
+              <a className="hero__cta hero__cta--primary" href="tel:+91 6238 210 448">
                 Call to order
               </a>
               <a
@@ -401,4 +401,5 @@ const NanmaFoodsApp = () => {
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(<NanmaFoodsApp />);
+
 
